@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "SSS",
+    "A A"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "A": {
+      "item": "minecraft:acacia_slab"
+    }
+  },
+  "result": {
+    "item": "lookoutawning:canvas_awning",
+    "count": 4
+  }
+}

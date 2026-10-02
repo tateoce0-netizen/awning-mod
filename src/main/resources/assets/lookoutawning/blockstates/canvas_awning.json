@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lookoutawning:block/canvas_awning",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "lookoutawning:block/canvas_awning",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lookoutawning:block/canvas_awning",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lookoutawning:block/canvas_awning",
+      "y": 270
+    }
+  }
+}
