@@ -18,7 +18,7 @@ jobs:
       - name: Setup Gradle Manual Version
         uses: gradle/actions/setup-gradle@v4
         with:
-          gradle-version: '8.0' # Installs a standard Gradle 8.0 directly on the cloud server
+          gradle-version: '8.5' # Installs a standard Gradle 8.0 directly on the cloud server
 
       - name: Build with Gradle
         run: gradle build # Uses the server-installed gradle instead of looking for ./gradlew
